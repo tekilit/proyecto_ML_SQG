@@ -50,4 +50,4 @@ Este conjunto de datos contiene una encuesta de satisfacción de pasajeros de l�
 * Satisfacción: Nivel de satisfacción de la aerolínea (Satisfacción, neutral o insatisfacción)
 
 Referencias
-TMDB Box Office Prediction | Kaggle. (2019). Kaggle. Recuperado 7 de abril de 2022, de https://www.kaggle.com/competitions/tmdb-box-office-prediction/overview/descriptio
+data recogida de Kaggle https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?sort=votes&tags=13302-Classification&page=2
