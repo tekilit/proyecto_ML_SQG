@@ -1,4 +1,8 @@
-## Acerca del conjunto de datos
+![Avion](../src/assets/dataset-cover.png)
+
+## Proyecto de Machine Learning Bootcamp Data Science
+
+
 # Contexto
 Este conjunto de datos contiene una encuesta de satisfacción de pasajeros de líneas aéreas. ¿Qué factores están altamente correlacionados con un pasajero satisfecho (o insatisfecho)? ¿Puede predecir la satisfacción de los pasajeros?
 
@@ -49,5 +53,7 @@ Este conjunto de datos contiene una encuesta de satisfacción de pasajeros de l�
 
 * Satisfacción: Nivel de satisfacción de la aerolínea (Satisfacción, neutral o insatisfacción)
 
-Referencias
-data recogida de Kaggle https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?sort=votes&tags=13302-Classification&page=2
+Referencias:
+
+
+data recogida de Kaggle: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?sort=votes&tags=13302-Classification&page=2
