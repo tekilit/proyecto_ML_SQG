@@ -1,50 +1,53 @@
-## About Dataset
-# Context
-This dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger? Can you predict passenger satisfaction?
+## Acerca del conjunto de datos
+# Contexto
+Este conjunto de datos contiene una encuesta de satisfacción de pasajeros de líneas aéreas. ¿Qué factores están altamente correlacionados con un pasajero satisfecho (o insatisfecho)? ¿Puede predecir la satisfacción de los pasajeros?
 
-# Content
-* Gender: Gender of the passengers (Female, Male)
+# Contenido
+* Género: Género de los pasajeros (Femenino, Masculino)
 
-* Customer Type: The customer type (Loyal customer, disloyal customer)
+* Tipo de Cliente: El tipo de cliente (Cliente fiel, cliente desleal)
 
-* Age: The actual age of the passengers
+* Edad: La edad real de los pasajeros
 
-* Type of Travel: Purpose of the flight of the passengers (Personal Travel, Business Travel)
+* Tipo de Viaje: Propósito del vuelo de los pasajeros (Viaje Personal, Viaje de Negocios)
 
-* Class: Travel class in the plane of the passengers (Business, Eco, Eco Plus)
+* Clase: Clase de viaje en el avión de los pasajeros (Business, Eco, Eco Plus)
 
-* Flight distance: The flight distance of this journey
+* Distancia de vuelo: la distancia de vuelo de este viaje
 
-* Inflight wifi service: Satisfaction level of the inflight wifi service (0:Not Applicable;1-5)
+* Servicio wifi a bordo: Nivel de satisfacción del servicio wifi a bordo (0: No aplicable; 1-5)
 
-* Departure/Arrival time convenient: Satisfaction level of Departure/Arrival time convenient
+* Hora de salida/llegada conveniente: Nivel de satisfacción de la hora de salida/llegada conveniente
 
-* Ease of Online booking: Satisfaction level of online booking
+* Facilidad de reserva en línea: Nivel de satisfacción de la reserva en línea
 
-* Gate location: Satisfaction level of Gate location
+* Ubicación de la puerta: nivel de satisfacción de la ubicación de la puerta
 
-* Food and drink: Satisfaction level of Food and drink
+* Alimentos y bebidas: Nivel de satisfacción de Alimentos y bebidas
 
-* Online boarding: Satisfaction level of online boarding
+* Embarque en línea: Nivel de satisfacción del embarque en línea
 
-* Seat comfort: Satisfaction level of Seat comfort
+* Comodidad del asiento: Nivel de satisfacción de Confort del asiento
 
-* Inflight entertainment: Satisfaction level of inflight entertainment
+* Entretenimiento a bordo: Nivel de satisfacción del entretenimiento a bordo
 
-* On-board service: Satisfaction level of On-board service
+* Servicio a bordo: Nivel de satisfacción del servicio a bordo
 
-* Leg room service: Satisfaction level of Leg room service
+* Servicio de sala de piernas: Nivel de satisfacción del servicio de sala de piernas
 
-* Baggage handling: Satisfaction level of baggage handling
+* Manejo de equipaje: Nivel de satisfacción del manejo de equipaje
 
-* Check-in service: Satisfaction level of Check-in service
+* Servicio Check-in: Nivel de satisfacción del servicio Check-in
 
-* Inflight service: Satisfaction level of inflight service
+* Servicio a bordo: Nivel de satisfacción del servicio a bordo
 
-* Cleanliness: Satisfaction level of Cleanliness
+* Limpieza: Nivel de satisfacción de Limpieza
 
-* Departure Delay in Minutes: Minutes delayed when departure
+* Retraso de Salida en Minutos: Minutos de retraso en la salida
 
-* Arrival Delay in Minutes: Minutes delayed when Arrival
+* Retraso de Llegada en Minutos: Minutos de retraso en la Llegada
 
-* Satisfaction: Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
+* Satisfacción: Nivel de satisfacción de la aerolínea (Satisfacción, neutral o insatisfacción)
+
+Referencias
+TMDB Box Office Prediction | Kaggle. (2019). Kaggle. Recuperado 7 de abril de 2022, de https://www.kaggle.com/competitions/tmdb-box-office-prediction/overview/descriptio
