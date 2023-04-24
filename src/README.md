@@ -6,6 +6,8 @@ Este proyecto de Machine Learning recogido de Kaggle está encuesta de satisfacc
 # Contexto
 Este conjunto de datos contiene una encuesta de satisfacción de pasajeros de líneas aéreas. ¿Qué factores están altamente correlacionados con un pasajero satisfecho (o insatisfecho)? ¿Puede predecir la satisfacción de los pasajeros?
 
+Si, creo una función que  mide el grado de insatisfacción y de satisfacción del cliente encuestado
+
 # Contenido
 * Género: Género de los pasajeros (Femenino, Masculino)
 
