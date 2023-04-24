@@ -1,4 +1,4 @@
-![Avion](../src/assets/dataset-cover.png)
+![Avion](src/assets/dataset-cover.png)
 
 ## Proyecto de Machine Learning Bootcamp Data Science
 Este proyecto de Machine Learning recogido de Kaggle está encuesta de satisfacción. Le doy respuesta al contexto pedid 
