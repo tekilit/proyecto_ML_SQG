@@ -1,7 +1,7 @@
 ![Avion](../src/assets/dataset-cover.png)
 
 ## Proyecto de Machine Learning Bootcamp Data Science
-
+Este proyecto de Machine Learning recogido de Kaggle está encuesta de satisfacción. Le doy respuesta al contexto pedid 
 
 # Contexto
 Este conjunto de datos contiene una encuesta de satisfacción de pasajeros de líneas aéreas. ¿Qué factores están altamente correlacionados con un pasajero satisfecho (o insatisfecho)? ¿Puede predecir la satisfacción de los pasajeros?
